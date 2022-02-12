@@ -1,3 +1,3 @@
-THIS IS MY anouther COMMIT!
+THIS IS a commit COMMIT!
 
 And here we go with commit #2!
